@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 from pathlib import Path
 from itertools import cycle
 from pyrogram import Client
-
+from better_proxy import Proxy
 from bot.utils.logger import log
 from bot.utils.settings import config, logo
 from bot.core.bot import run_bot
