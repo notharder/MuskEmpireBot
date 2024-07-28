@@ -1,3 +1,6 @@
+# Buy telegram account with 1 USDT
+https://t.me/pokkiegirl
+
 # Bot for [Musk Empire]
 
 ## Functionality
